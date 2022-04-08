@@ -3,10 +3,7 @@ label: CMS Maleo
 icon: home
 ---
 # Guide d'Utilisation du CMS Maleo
-
-<!-- <style> .img { text-align: center; color: #1956AF; border-radius: 10px; background-color: #E1EDFF; border: 1px solid #1956AF; padding: 5px; margin-bottom: 20px; } </style> -->
-
-
+---
 
 Le CMS de Maleo permet de répertorier toutes les images qui sont utilisées pour les projets suivants:
 
@@ -24,7 +21,7 @@ Seul les utilisateurs avec certains accès peuvent modifier une fiche image. Si 
 
 Rendez vous dans le menu "Content" et dans les options qui s'offrent a vous, choisissez "Images".
 
-:::img 
+::: 
 ![](imgs/ficheimg01.png) 
 :::
 
@@ -38,7 +35,7 @@ Vous aurez accès a toutes les fiches d'images présentes sur le site. Vous pouv
 
 Lorsque vous êtes dans la page contenant la liste de fiches d'images, cliquez sur le bouton "+" se trouvant au sommet a droite sur la page.
 
-:::img 
+::: 
 ![Positionnement du bouton pour creer une nouvelle fiche](imgs/ficheimg02.png) 
 :::
 
@@ -56,7 +53,7 @@ Si le problème persiste après malgré cela, veuillez faire un ticket sur le po
 ### Effacer une fiche image
 
 Pour effacer une fiche, vous devez d'abord selectionner la fiche que vous voulez traiter. Dans la page de detail de l'affiche, au dessus a droite sur la page, vous verrez le bouton pour effacer la fiche. 
-:::img 
+::: 
 ![Positionnement du bouton pour effacer](imgs/ficheimg04.png) 
 :::
 
@@ -70,7 +67,7 @@ La fiche mission est utiliéee pour entrer toutes les informations indiquant aux
 
 On peut y acceder en allant dans le menu "Content" et en choissisant "Missions" dans le sous-menu.
 
-:::img 
+::: 
 ![](imgs/fichemis01.png) 
 :::
 
@@ -82,13 +79,13 @@ Voici les étapes a suivre si vous voulez remplacer une image qui a deja été m
 
 Dans le menu sur la gauche de la page, allez dans "Librairie des Fichiers".
 
-:::img 
+::: 
 ![Le menu est appele "File Library" en anglais](imgs/fichefile01.png) 
 :::
 
 Vous aurez la liste de toutes les images du CMS. Vous pouvez chercher l'image que vous voulez modifier. Ouvrez l'image, puis clique sur l'icon présent en dessous a droite de l'image lorsque vous positionnez la souris au dessus de l'image.
 
-:::img 
+::: 
 ![La souris doit etre au dessus de l'image](imgs/fichefile02.png) 
 :::
 
