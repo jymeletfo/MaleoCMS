@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://jymeletfo.github.io/MaleoCMS/sitemap.xml.gz
