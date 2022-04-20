@@ -1,5 +1,5 @@
 ---
-label: CMS Maleo 
+label: CMS Pralo 
 icon: home
 ---
 
@@ -10,7 +10,7 @@ icon: home
     }
 </style>
 
-# Guide d'Utilisation du CMS Maleo
+# Guide d'Utilisation du CMS Pralo
 ---
 
 Le CMS de Maleo permet de répertorier toutes les images qui sont utilisées pour les projets suivants:
